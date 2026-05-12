@@ -1,2 +1,2 @@
-# beytullah-sen.github.io
-beytullah-sen Homepage
+# ADS-352 Dersi
+Ders için örnek site oluşturma deposudur
